@@ -11,7 +11,7 @@ The application allows user to manage Tickets (Add, Read, delete, Update).
 - **Domain-Driven Design (DDD):** The application is structured using DDD principles to organize code around the business domain, promoting better maintainability and scalability.
 - **ASP.NET Core Web API:** The backend is developed using ASP.NET Core, providing a robust and scalable RESTful API.
 - **Entity Framework Core (EF Core) Sql server Database:** The application utilizes EF Core for data persistence, using an sql server database.
-- **Repository Pattern:** The repository pattern is implemented to abstract data access logic, providing a clean separation between the application's business logic and data access code.
+- **Repository Pattern:** design pattern used to handle operations that can succeed or fail without relying on exceptions for control flow.
 - **CQRS (Command Query Responsibility Segregation):** The CQRS pattern is employed to separate the read and write operations, improving scalability and simplifying code.
 - **MapsterMapping:** MapsterMapping is utilized for mapping between Data Transfer Objects (DTOs) and domain models, simplifying data transformation.
 - **Global Error Handling:** Error handling is implemented globally to ensure consistent and meaningful error messages are returned to clients.
