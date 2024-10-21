@@ -7,6 +7,7 @@ The application allows user to manage Tickets (Add, Read, delete, Update).
 
 ## Features
 
+- **dotnet version:** Using .NET 8.
 - **Domain-Driven Design (DDD):** The application is structured using DDD principles to organize code around the business domain, promoting better maintainability and scalability.
 - **ASP.NET Core Web API:** The backend is developed using ASP.NET Core, providing a robust and scalable RESTful API.
 - **Entity Framework Core (EF Core) Sql server Database:** The application utilizes EF Core for data persistence, using an sql server database.
@@ -19,6 +20,7 @@ The application allows user to manage Tickets (Add, Read, delete, Update).
 ## Frontend
 
 The frontend of the application is built using Angular, with Angular Material components for a sleek and responsive user interface.
+- **Angular version:** using Angular 17
 - **Primeng:** using Primeng to make the application visually appealing.
 
 
