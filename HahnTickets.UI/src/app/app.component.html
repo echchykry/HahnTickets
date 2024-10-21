@@ -1,0 +1,86 @@
+<div class="mar-40">
+  <p-table 
+      [value]="tickets" 
+      styleClass="small-table" 
+      class="my-component"
+      [tableStyle]="{ 'min-width': '50rem' }">
+          <ng-template pTemplate="header">
+              <tr>
+                  <th class="green-header">TicketId</th>
+                  <th class="green-header">Description</th>
+                  <th class="green-header">Status</th>
+                  <th class="green-header">Date</th>
+                  <th class="green-header">Actions</th>
+              </tr>
+          </ng-template>
+          <ng-template pTemplate="body" let-ticket>
+              <tr>
+                  <td>{{ ticket.id }}</td>
+                  <td>{{ ticket.description }}</td>
+                  <td>{{ ticket.status }}</td>
+                  <td>{{ ticket.date | date: 'MMM-dd-yyyy' }}</td>
+                  <td><div class="flex gap-2">
+                    <a href="#" (click)="showUpdateDialog(ticket.id)">Update</a>
+                    <a href="" (click)="deleteTicket(ticket.id)">Delete</a>
+                  </div></td>
+              </tr>
+          </ng-template>
+  </p-table>
+  <div class="card flex justify-content-center">
+    <p-paginator 
+        (onPageChange)="onPageChange($event)" 
+        [first]="first" 
+        [rows]="rows" 
+        [totalRecords]="totalRecords" 
+        [rowsPerPageOptions]="[5, 10, 20]" />
+</div>
+
+</div>
+<p-button label="Add New" (onClick)="showDialog()" severity="success" />
+
+<p-dialog header="Add Ticket" [(visible)]="displayDialog"  [style]="{ width: '40rem' }">
+    <form [formGroup]="TicketForm">
+        <span class="p-text-secondary block mb-5">All fields are required.</span>
+        <div class="flex align-items-center gap-3 mb-3">
+            <label for="username" class="font-semibold w-6rem">Description</label>
+            <textarea rows="5" cols="30" pInputTextarea formControlName="Description"> </textarea>
+        </div>
+        <div class="flex align-items-center gap-3 mb-5">
+            <label for="email" class="font-semibold w-6rem">Status</label>
+            <p-dropdown 
+            formControlName="Status" 
+            [options]="statuses"
+            optionLabel="name"
+            placeholder="Select a Status" />
+            
+        </div>
+        <div class="flex justify-content-end gap-2">
+            <p-button label="Cancel" severity="secondary" (onClick)="displayDialog = false" />
+            <p-button label="Save" (onClick)="addNewTicket()" />
+        </div>
+    </form>
+</p-dialog>
+
+<p-dialog header="Edit Ticket" [(visible)]="displayEditDialog"  [style]="{ width: '40rem' }">
+
+        <span class="p-text-secondary block mb-5">All fields are required.</span>
+        <div class="flex align-items-center gap-3 mb-3">
+            <label for="username" class="font-semibold w-6rem">Description</label>
+            <textarea rows="5" cols="30" pInputTextarea [(ngModel)]="description"> </textarea>
+        </div>
+        <div class="flex align-items-center gap-3 mb-5">
+            <label for="email" class="font-semibold w-6rem">Status</label>
+            <p-dropdown 
+            [(ngModel)]="statusId" 
+            [options]="statuses"
+            optionLabel="name"
+            optionValue="id"
+            placeholder="Select a Status" />
+            
+        </div>
+        <div class="flex justify-content-end gap-2">
+            <p-button label="Cancel" severity="secondary" (onClick)="displayEditDialog = false" />
+            <p-button label="Save" (onClick)="updateTicket()" />
+        </div>
+
+</p-dialog>

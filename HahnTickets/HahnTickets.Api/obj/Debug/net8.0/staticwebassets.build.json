@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UlQPfPiNWDYx5Qn/mIV2NSgm1eooj2uQSHuhanWCPlI=",
+  "Source": "HahnTickets.Api",
+  "BasePath": "_content/HahnTickets.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

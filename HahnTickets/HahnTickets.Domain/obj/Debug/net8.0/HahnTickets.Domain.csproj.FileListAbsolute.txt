@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Custom\HahnTickets\HahnTickets.Domain\bin\Debug\net8.0\HahnTickets.Domain.deps.json
+C:\Users\pc\Desktop\Custom\HahnTickets\HahnTickets.Domain\bin\Debug\net8.0\HahnTickets.Domain.dll
+C:\Users\pc\Desktop\Custom\HahnTickets\HahnTickets.Domain\bin\Debug\net8.0\HahnTickets.Domain.pdb
+C:\Users\pc\Desktop\Custom\HahnTickets\HahnTickets.Domain\bin\Debug\net8.0\HahnTickets.Shared.dll
+C:\Users\pc\Desktop\Custom\HahnTickets\HahnTickets.Domain\bin\Debug\net8.0\HahnTickets.Shared.pdb
+C:\Users\pc\Desktop\Custom\HahnTickets\HahnTickets.Domain\obj\Debug\net8.0\HahnTickets.Domain.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Custom\HahnTickets\HahnTickets.Domain\obj\Debug\net8.0\HahnTickets.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Custom\HahnTickets\HahnTickets.Domain\obj\Debug\net8.0\HahnTickets.Domain.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Custom\HahnTickets\HahnTickets.Domain\obj\Debug\net8.0\HahnTickets.Domain.AssemblyInfo.cs
+C:\Users\pc\Desktop\Custom\HahnTickets\HahnTickets.Domain\obj\Debug\net8.0\HahnTickets.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Custom\HahnTickets\HahnTickets.Domain\obj\Debug\net8.0\HahnTick.A1ABCF90.Up2Date
+C:\Users\pc\Desktop\Custom\HahnTickets\HahnTickets.Domain\obj\Debug\net8.0\HahnTickets.Domain.dll
+C:\Users\pc\Desktop\Custom\HahnTickets\HahnTickets.Domain\obj\Debug\net8.0\refint\HahnTickets.Domain.dll
+C:\Users\pc\Desktop\Custom\HahnTickets\HahnTickets.Domain\obj\Debug\net8.0\HahnTickets.Domain.pdb
+C:\Users\pc\Desktop\Custom\HahnTickets\HahnTickets.Domain\obj\Debug\net8.0\ref\HahnTickets.Domain.dll

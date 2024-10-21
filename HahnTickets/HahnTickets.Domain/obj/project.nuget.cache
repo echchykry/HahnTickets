@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tlkeF8ztB7w5T3qTwiY8f98J7nYEdZeYRHErDpqq+xtD67mvQf7kQtcLrwethzhUTO0BipyAiJLznLB3Xdf6tA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Domain\\HahnTickets.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\erroror\\1.9.0\\erroror.1.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

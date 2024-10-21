@@ -1,0 +1,440 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7643D697-88EF-407E-9D7F-02D2E257B653}|HahnTickets.Shared\\HahnTickets.Shared.csproj|c:\\users\\pc\\desktop\\custom\\hahntickets\\hahntickets.shared\\pagination\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7643D697-88EF-407E-9D7F-02D2E257B653}|HahnTickets.Shared\\HahnTickets.Shared.csproj|solutionrelative:hahntickets.shared\\pagination\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4043B4CD-8205-4E1C-9ABA-F8193DB97921}|HahnTickets.Application\\HahnTickets.Application.csproj|c:\\users\\pc\\desktop\\custom\\hahntickets\\hahntickets.application\\features\\tickets\\queries\\getbyid\\getticketbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4043B4CD-8205-4E1C-9ABA-F8193DB97921}|HahnTickets.Application\\HahnTickets.Application.csproj|solutionrelative:hahntickets.application\\features\\tickets\\queries\\getbyid\\getticketbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4043B4CD-8205-4E1C-9ABA-F8193DB97921}|HahnTickets.Application\\HahnTickets.Application.csproj|c:\\users\\pc\\desktop\\custom\\hahntickets\\hahntickets.application\\features\\tickets\\queries\\getbyid\\getticketbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4043B4CD-8205-4E1C-9ABA-F8193DB97921}|HahnTickets.Application\\HahnTickets.Application.csproj|solutionrelative:hahntickets.application\\features\\tickets\\queries\\getbyid\\getticketbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4043B4CD-8205-4E1C-9ABA-F8193DB97921}|HahnTickets.Application\\HahnTickets.Application.csproj|c:\\users\\pc\\desktop\\custom\\hahntickets\\hahntickets.application\\features\\tickets\\queries\\getbyid\\getticketbyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4043B4CD-8205-4E1C-9ABA-F8193DB97921}|HahnTickets.Application\\HahnTickets.Application.csproj|solutionrelative:hahntickets.application\\features\\tickets\\queries\\getbyid\\getticketbyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4043B4CD-8205-4E1C-9ABA-F8193DB97921}|HahnTickets.Application\\HahnTickets.Application.csproj|c:\\users\\pc\\desktop\\custom\\hahntickets\\hahntickets.application\\features\\tickets\\queries\\getall\\getallticketshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4043B4CD-8205-4E1C-9ABA-F8193DB97921}|HahnTickets.Application\\HahnTickets.Application.csproj|solutionrelative:hahntickets.application\\features\\tickets\\queries\\getall\\getallticketshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4043B4CD-8205-4E1C-9ABA-F8193DB97921}|HahnTickets.Application\\HahnTickets.Application.csproj|c:\\users\\pc\\desktop\\custom\\hahntickets\\hahntickets.application\\features\\tickets\\queries\\getall\\getallticketsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4043B4CD-8205-4E1C-9ABA-F8193DB97921}|HahnTickets.Application\\HahnTickets.Application.csproj|solutionrelative:hahntickets.application\\features\\tickets\\queries\\getall\\getallticketsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4043B4CD-8205-4E1C-9ABA-F8193DB97921}|HahnTickets.Application\\HahnTickets.Application.csproj|c:\\users\\pc\\desktop\\custom\\hahntickets\\hahntickets.application\\features\\tickets\\queries\\getall\\getallticketsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4043B4CD-8205-4E1C-9ABA-F8193DB97921}|HahnTickets.Application\\HahnTickets.Application.csproj|solutionrelative:hahntickets.application\\features\\tickets\\queries\\getall\\getallticketsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4043B4CD-8205-4E1C-9ABA-F8193DB97921}|HahnTickets.Application\\HahnTickets.Application.csproj|c:\\users\\pc\\desktop\\custom\\hahntickets\\hahntickets.application\\features\\tickets\\commands\\updateticket\\updateticketvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4043B4CD-8205-4E1C-9ABA-F8193DB97921}|HahnTickets.Application\\HahnTickets.Application.csproj|solutionrelative:hahntickets.application\\features\\tickets\\commands\\updateticket\\updateticketvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4043B4CD-8205-4E1C-9ABA-F8193DB97921}|HahnTickets.Application\\HahnTickets.Application.csproj|c:\\users\\pc\\desktop\\custom\\hahntickets\\hahntickets.application\\features\\tickets\\commands\\updateticket\\updatetickethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4043B4CD-8205-4E1C-9ABA-F8193DB97921}|HahnTickets.Application\\HahnTickets.Application.csproj|solutionrelative:hahntickets.application\\features\\tickets\\commands\\updateticket\\updatetickethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4043B4CD-8205-4E1C-9ABA-F8193DB97921}|HahnTickets.Application\\HahnTickets.Application.csproj|c:\\users\\pc\\desktop\\custom\\hahntickets\\hahntickets.application\\features\\tickets\\commands\\deleteticket\\deletetickethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4043B4CD-8205-4E1C-9ABA-F8193DB97921}|HahnTickets.Application\\HahnTickets.Application.csproj|solutionrelative:hahntickets.application\\features\\tickets\\commands\\deleteticket\\deletetickethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4043B4CD-8205-4E1C-9ABA-F8193DB97921}|HahnTickets.Application\\HahnTickets.Application.csproj|c:\\users\\pc\\desktop\\custom\\hahntickets\\hahntickets.application\\features\\tickets\\commands\\addticket\\createticketcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4043B4CD-8205-4E1C-9ABA-F8193DB97921}|HahnTickets.Application\\HahnTickets.Application.csproj|solutionrelative:hahntickets.application\\features\\tickets\\commands\\addticket\\createticketcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376C76A9-ADDB-4F39-A2AB-4E821D2E9BF2}|HahnTickets.Api\\HahnTickets.Api.csproj|c:\\users\\pc\\desktop\\custom\\hahntickets\\hahntickets.api\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376C76A9-ADDB-4F39-A2AB-4E821D2E9BF2}|HahnTickets.Api\\HahnTickets.Api.csproj|solutionrelative:hahntickets.api\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376C76A9-ADDB-4F39-A2AB-4E821D2E9BF2}|HahnTickets.Api\\HahnTickets.Api.csproj|c:\\users\\pc\\desktop\\custom\\hahntickets\\hahntickets.api\\mapping\\ticketmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376C76A9-ADDB-4F39-A2AB-4E821D2E9BF2}|HahnTickets.Api\\HahnTickets.Api.csproj|solutionrelative:hahntickets.api\\mapping\\ticketmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376C76A9-ADDB-4F39-A2AB-4E821D2E9BF2}|HahnTickets.Api\\HahnTickets.Api.csproj|c:\\users\\pc\\desktop\\custom\\hahntickets\\hahntickets.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376C76A9-ADDB-4F39-A2AB-4E821D2E9BF2}|HahnTickets.Api\\HahnTickets.Api.csproj|solutionrelative:hahntickets.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376C76A9-ADDB-4F39-A2AB-4E821D2E9BF2}|HahnTickets.Api\\HahnTickets.Api.csproj|c:\\users\\pc\\desktop\\custom\\hahntickets\\hahntickets.api\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376C76A9-ADDB-4F39-A2AB-4E821D2E9BF2}|HahnTickets.Api\\HahnTickets.Api.csproj|solutionrelative:hahntickets.api\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376C76A9-ADDB-4F39-A2AB-4E821D2E9BF2}|HahnTickets.Api\\HahnTickets.Api.csproj|c:\\users\\pc\\desktop\\custom\\hahntickets\\hahntickets.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376C76A9-ADDB-4F39-A2AB-4E821D2E9BF2}|HahnTickets.Api\\HahnTickets.Api.csproj|solutionrelative:hahntickets.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376C76A9-ADDB-4F39-A2AB-4E821D2E9BF2}|HahnTickets.Api\\HahnTickets.Api.csproj|c:\\users\\pc\\desktop\\custom\\hahntickets\\hahntickets.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{376C76A9-ADDB-4F39-A2AB-4E821D2E9BF2}|HahnTickets.Api\\HahnTickets.Api.csproj|solutionrelative:hahntickets.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376C76A9-ADDB-4F39-A2AB-4E821D2E9BF2}|HahnTickets.Api\\HahnTickets.Api.csproj|c:\\users\\pc\\desktop\\custom\\hahntickets\\hahntickets.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{376C76A9-ADDB-4F39-A2AB-4E821D2E9BF2}|HahnTickets.Api\\HahnTickets.Api.csproj|solutionrelative:hahntickets.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376C76A9-ADDB-4F39-A2AB-4E821D2E9BF2}|HahnTickets.Api\\HahnTickets.Api.csproj|c:\\users\\pc\\desktop\\custom\\hahntickets\\hahntickets.api\\hahntickets.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{376C76A9-ADDB-4F39-A2AB-4E821D2E9BF2}|HahnTickets.Api\\HahnTickets.Api.csproj|solutionrelative:hahntickets.api\\hahntickets.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376C76A9-ADDB-4F39-A2AB-4E821D2E9BF2}|HahnTickets.Api\\HahnTickets.Api.csproj|c:\\users\\pc\\desktop\\custom\\hahntickets\\hahntickets.api\\hahntickets.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{376C76A9-ADDB-4F39-A2AB-4E821D2E9BF2}|HahnTickets.Api\\HahnTickets.Api.csproj|solutionrelative:hahntickets.api\\hahntickets.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67ABCD-A2D5-45D1-8926-708F7C5DE13E}|HahnTickets.Infrastructure\\HahnTickets.Infrastructure.csproj|c:\\users\\pc\\desktop\\custom\\hahntickets\\hahntickets.infrastructure\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67ABCD-A2D5-45D1-8926-708F7C5DE13E}|HahnTickets.Infrastructure\\HahnTickets.Infrastructure.csproj|solutionrelative:hahntickets.infrastructure\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B67ABCD-A2D5-45D1-8926-708F7C5DE13E}|HahnTickets.Infrastructure\\HahnTickets.Infrastructure.csproj|c:\\users\\pc\\desktop\\custom\\hahntickets\\hahntickets.infrastructure\\persistence\\hahndbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B67ABCD-A2D5-45D1-8926-708F7C5DE13E}|HahnTickets.Infrastructure\\HahnTickets.Infrastructure.csproj|solutionrelative:hahntickets.infrastructure\\persistence\\hahndbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4043B4CD-8205-4E1C-9ABA-F8193DB97921}|HahnTickets.Application\\HahnTickets.Application.csproj|c:\\users\\pc\\desktop\\custom\\hahntickets\\hahntickets.application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4043B4CD-8205-4E1C-9ABA-F8193DB97921}|HahnTickets.Application\\HahnTickets.Application.csproj|solutionrelative:hahntickets.application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9A4F61-0ADD-4525-9410-8BA8E2DDDF9D}|HahnTickets.Domain\\HahnTickets.Domain.csproj|c:\\users\\pc\\desktop\\custom\\hahntickets\\hahntickets.domain\\entities\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9A4F61-0ADD-4525-9410-8BA8E2DDDF9D}|HahnTickets.Domain\\HahnTickets.Domain.csproj|solutionrelative:hahntickets.domain\\entities\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 216,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetTicketByIdDto.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Application\\Features\\Tickets\\Queries\\GetById\\GetTicketByIdDto.cs",
+              "RelativeDocumentMoniker": "HahnTickets.Application\\Features\\Tickets\\Queries\\GetById\\GetTicketByIdDto.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Application\\Features\\Tickets\\Queries\\GetById\\GetTicketByIdDto.cs",
+              "RelativeToolTip": "HahnTickets.Application\\Features\\Tickets\\Queries\\GetById\\GetTicketByIdDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:31:37.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetTicketByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Application\\Features\\Tickets\\Queries\\GetById\\GetTicketByIdHandler.cs",
+              "RelativeDocumentMoniker": "HahnTickets.Application\\Features\\Tickets\\Queries\\GetById\\GetTicketByIdHandler.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Application\\Features\\Tickets\\Queries\\GetById\\GetTicketByIdHandler.cs",
+              "RelativeToolTip": "HahnTickets.Application\\Features\\Tickets\\Queries\\GetById\\GetTicketByIdHandler.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAuwBwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:31:13.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetTicketByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Application\\Features\\Tickets\\Queries\\GetById\\GetTicketByIdQuery.cs",
+              "RelativeDocumentMoniker": "HahnTickets.Application\\Features\\Tickets\\Queries\\GetById\\GetTicketByIdQuery.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Application\\Features\\Tickets\\Queries\\GetById\\GetTicketByIdQuery.cs",
+              "RelativeToolTip": "HahnTickets.Application\\Features\\Tickets\\Queries\\GetById\\GetTicketByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:30:46.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Shared\\Pagination\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "HahnTickets.Shared\\Pagination\\PaginatedList.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Shared\\Pagination\\PaginatedList.cs",
+              "RelativeToolTip": "HahnTickets.Shared\\Pagination\\PaginatedList.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA5wBoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:32:25.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAllTicketsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Application\\Features\\Tickets\\Queries\\GetAll\\GetAllTicketsHandler.cs",
+              "RelativeDocumentMoniker": "HahnTickets.Application\\Features\\Tickets\\Queries\\GetAll\\GetAllTicketsHandler.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Application\\Features\\Tickets\\Queries\\GetAll\\GetAllTicketsHandler.cs",
+              "RelativeToolTip": "HahnTickets.Application\\Features\\Tickets\\Queries\\GetAll\\GetAllTicketsHandler.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:39:34.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAllTicketsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Application\\Features\\Tickets\\Queries\\GetAll\\GetAllTicketsQuery.cs",
+              "RelativeDocumentMoniker": "HahnTickets.Application\\Features\\Tickets\\Queries\\GetAll\\GetAllTicketsQuery.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Application\\Features\\Tickets\\Queries\\GetAll\\GetAllTicketsQuery.cs",
+              "RelativeToolTip": "HahnTickets.Application\\Features\\Tickets\\Queries\\GetAll\\GetAllTicketsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:33:52.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAllTicketsDto.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Application\\Features\\Tickets\\Queries\\GetAll\\GetAllTicketsDto.cs",
+              "RelativeDocumentMoniker": "HahnTickets.Application\\Features\\Tickets\\Queries\\GetAll\\GetAllTicketsDto.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Application\\Features\\Tickets\\Queries\\GetAll\\GetAllTicketsDto.cs",
+              "RelativeToolTip": "HahnTickets.Application\\Features\\Tickets\\Queries\\GetAll\\GetAllTicketsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:17:53.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateTicketValidator.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Application\\Features\\Tickets\\Commands\\UpdateTicket\\UpdateTicketValidator.cs",
+              "RelativeDocumentMoniker": "HahnTickets.Application\\Features\\Tickets\\Commands\\UpdateTicket\\UpdateTicketValidator.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Application\\Features\\Tickets\\Commands\\UpdateTicket\\UpdateTicketValidator.cs",
+              "RelativeToolTip": "HahnTickets.Application\\Features\\Tickets\\Commands\\UpdateTicket\\UpdateTicketValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:41:20.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateTicketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Application\\Features\\Tickets\\Commands\\UpdateTicket\\UpdateTicketHandler.cs",
+              "RelativeDocumentMoniker": "HahnTickets.Application\\Features\\Tickets\\Commands\\UpdateTicket\\UpdateTicketHandler.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Application\\Features\\Tickets\\Commands\\UpdateTicket\\UpdateTicketHandler.cs",
+              "RelativeToolTip": "HahnTickets.Application\\Features\\Tickets\\Commands\\UpdateTicket\\UpdateTicketHandler.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:56:46.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteTicketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Application\\Features\\Tickets\\Commands\\DeleteTicket\\DeleteTicketHandler.cs",
+              "RelativeDocumentMoniker": "HahnTickets.Application\\Features\\Tickets\\Commands\\DeleteTicket\\DeleteTicketHandler.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Application\\Features\\Tickets\\Commands\\DeleteTicket\\DeleteTicketHandler.cs",
+              "RelativeToolTip": "HahnTickets.Application\\Features\\Tickets\\Commands\\DeleteTicket\\DeleteTicketHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:30:37.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateTicketCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Application\\Features\\Tickets\\Commands\\AddTicket\\CreateTicketCommandValidator.cs",
+              "RelativeDocumentMoniker": "HahnTickets.Application\\Features\\Tickets\\Commands\\AddTicket\\CreateTicketCommandValidator.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Application\\Features\\Tickets\\Commands\\AddTicket\\CreateTicketCommandValidator.cs",
+              "RelativeToolTip": "HahnTickets.Application\\Features\\Tickets\\Commands\\AddTicket\\CreateTicketCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:54:46.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Api\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "HahnTickets.Api\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Api\\ServiceRegistration.cs",
+              "RelativeToolTip": "HahnTickets.Api\\ServiceRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:36:25.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TicketMapping.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Api\\Mapping\\TicketMapping.cs",
+              "RelativeDocumentMoniker": "HahnTickets.Api\\Mapping\\TicketMapping.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Api\\Mapping\\TicketMapping.cs",
+              "RelativeToolTip": "HahnTickets.Api\\Mapping\\TicketMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T11:52:06.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "HahnTickets.Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "HahnTickets.Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:58:35.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Api\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "HahnTickets.Api\\Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Api\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "HahnTickets.Api\\Controllers\\TicketController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAWwEEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:52:35.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Api\\Program.cs",
+              "RelativeDocumentMoniker": "HahnTickets.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Api\\Program.cs",
+              "RelativeToolTip": "HahnTickets.Api\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:01:31.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "HahnTickets.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Api\\appsettings.Development.json",
+              "RelativeToolTip": "HahnTickets.Api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T08:10:27.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "HahnTickets.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Api\\appsettings.json",
+              "RelativeToolTip": "HahnTickets.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T15:40:46.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HahnTickets.Api.http",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Api\\HahnTickets.Api.http",
+              "RelativeDocumentMoniker": "HahnTickets.Api\\HahnTickets.Api.http",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Api\\HahnTickets.Api.http",
+              "RelativeToolTip": "HahnTickets.Api\\HahnTickets.Api.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-15T11:58:27.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HahnTickets.Api",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Api\\HahnTickets.Api.csproj",
+              "RelativeDocumentMoniker": "HahnTickets.Api\\HahnTickets.Api.csproj",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Api\\HahnTickets.Api.csproj",
+              "RelativeToolTip": "HahnTickets.Api\\HahnTickets.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T13:35:14.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HahnDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Infrastructure\\Persistence\\HahnDbContext.cs",
+              "RelativeDocumentMoniker": "HahnTickets.Infrastructure\\Persistence\\HahnDbContext.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Infrastructure\\Persistence\\HahnDbContext.cs",
+              "RelativeToolTip": "HahnTickets.Infrastructure\\Persistence\\HahnDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:34:39.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Infrastructure\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "HahnTickets.Infrastructure\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Infrastructure\\ServiceRegistration.cs",
+              "RelativeToolTip": "HahnTickets.Infrastructure\\ServiceRegistration.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:40:38.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Application\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "HahnTickets.Application\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Application\\ServiceRegistration.cs",
+              "RelativeToolTip": "HahnTickets.Application\\ServiceRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:31:28.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Domain\\Entities\\Status.cs",
+              "RelativeDocumentMoniker": "HahnTickets.Domain\\Entities\\Status.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Custom\\HahnTickets\\HahnTickets.Domain\\Entities\\Status.cs",
+              "RelativeToolTip": "HahnTickets.Domain\\Entities\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:29:49.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

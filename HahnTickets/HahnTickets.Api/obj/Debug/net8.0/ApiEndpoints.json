@@ -1,0 +1,122 @@
+[
+  {
+    "ContainingType": "HahnTickets.Api.Controllers.TicketController",
+    "Method": "Update",
+    "RelativePath": "Ticket",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "HahnTickets.Application.Features.Tickets.Commands.UpdateTicket.UpdateTicketCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HahnTickets.Api.Controllers.TicketController",
+    "Method": "DeleteById",
+    "RelativePath": "Ticket/{ticketId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ticketId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HahnTickets.Api.Controllers.TicketController",
+    "Method": "AddTicketAsync",
+    "RelativePath": "Ticket/addTicket",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "HahnTickets.Application.Features.Tickets.Commands.AddTicket.CreateTicketCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HahnTickets.Api.Controllers.TicketController",
+    "Method": "GetAllTickets",
+    "RelativePath": "Ticket/GetAll{orderBy}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderBy",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "pageIndex",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HahnTickets.Shared.Pagination.PaginatedList\u00601[[HahnTickets.Application.Features.Tickets.Queries.GetAll.GetAllTicketsDto, HahnTickets.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HahnTickets.Api.Controllers.TicketController",
+    "Method": "GetById",
+    "RelativePath": "Ticket/GetById{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HahnTickets.Api.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HahnTickets.Api.WeatherForecast, HahnTickets.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

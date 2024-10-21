@@ -1,0 +1,11 @@
+C:\Users\pc\Desktop\Custom\HahnTickets\HahnTickets.Shared\bin\Debug\net8.0\HahnTickets.Shared.deps.json
+C:\Users\pc\Desktop\Custom\HahnTickets\HahnTickets.Shared\bin\Debug\net8.0\HahnTickets.Shared.dll
+C:\Users\pc\Desktop\Custom\HahnTickets\HahnTickets.Shared\bin\Debug\net8.0\HahnTickets.Shared.pdb
+C:\Users\pc\Desktop\Custom\HahnTickets\HahnTickets.Shared\obj\Debug\net8.0\HahnTickets.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Custom\HahnTickets\HahnTickets.Shared\obj\Debug\net8.0\HahnTickets.Shared.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Custom\HahnTickets\HahnTickets.Shared\obj\Debug\net8.0\HahnTickets.Shared.AssemblyInfo.cs
+C:\Users\pc\Desktop\Custom\HahnTickets\HahnTickets.Shared\obj\Debug\net8.0\HahnTickets.Shared.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Custom\HahnTickets\HahnTickets.Shared\obj\Debug\net8.0\HahnTickets.Shared.dll
+C:\Users\pc\Desktop\Custom\HahnTickets\HahnTickets.Shared\obj\Debug\net8.0\refint\HahnTickets.Shared.dll
+C:\Users\pc\Desktop\Custom\HahnTickets\HahnTickets.Shared\obj\Debug\net8.0\HahnTickets.Shared.pdb
+C:\Users\pc\Desktop\Custom\HahnTickets\HahnTickets.Shared\obj\Debug\net8.0\ref\HahnTickets.Shared.dll
